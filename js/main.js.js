@@ -1,1 +1,1 @@
-console.log ("vamos a programar")
+console.log (" a programar que el mundo se va a acabar")
