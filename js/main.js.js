@@ -1,1 +1,1 @@
-console.log (" a programar que el mundo se va a acabar")
+console.log ("que pasa") 
